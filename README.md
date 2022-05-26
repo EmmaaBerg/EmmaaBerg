@@ -2,7 +2,7 @@
 I am an aspiring frontend developer with a background in medical biology 🧬
 - 🌱 This spring I'm attending Technigos bootcamp to learn how to code 👩‍💻
 
-- 📫 How to reach me: emmaberg0819@gmail.com or check out my portfolio 👉 https://emmabergsportfolio.netlify.app/ 
+- 📫 How to reach me: emmaberg.contact@gmail.com or check out my portfolio 👉 https://emmabergsportfolio.netlify.app/ 
 
 <!---
 EmmaaBerg/EmmaaBerg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

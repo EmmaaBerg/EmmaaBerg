@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @EmmaaBerg 🎈
 I am an aspiring frontend developer with a background in medical biology 🧬
-- 🌱 This spring I'm attending Technigos bootcamp to learn how to code 👩‍💻
+- 🌱 Last spring I'm attended Technigos bootcamp to learn how to code 👩‍💻
+- 💻 For the last 5 months I have been working with app development 
 
 - 📫 How to reach me: emmaberg.contact@gmail.com or check out my portfolio 👉 https://emmabergsportfolio.netlify.app/ 
 
